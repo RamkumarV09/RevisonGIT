@@ -19,4 +19,12 @@ public class SampleGIT {
 		System.out.println("Meth3");
 	}
 
+	public void meth4() {
+		System.out.println("Meth4");
+
+	}
+	public void meth5() {
+		System.out.println("Meth5");
+
+	}
 }
